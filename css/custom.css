@@ -1,6 +1,10 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
 }
+a:hover, a:focus{
+    outline: 0!important;
+    outline: none!important;
+}
 h1, h2, h3, h4, h5, h6 {
     font-weight: 900;
     margin-bottom: 28px;
